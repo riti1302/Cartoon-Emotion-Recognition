@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>frame91.jpg</filename>
+	<path>/home/ritika/Documents/Projects/ML Challenges/Cartoon_emotion_detection/Data/Train/frame91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>291</ymin>
+			<xmax>623</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>478</ymin>
+			<xmax>1112</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>
