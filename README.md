@@ -37,6 +37,14 @@ Prediction on a new image can be done using `get_prediction.py`
 
 ### Outputs
 
-- <p align="center"> <img src="238.jpg"/> </p>
+<p align="center"> <img src="frame238.jpg"/> </p>
+
+<p align="center"> <img src="frame246.jpg"/> </p>
+
+<p align="center"> <img src="frame0.jpg"/> </p>
+
+<p align="center"> <img src="frame2.jpg"/> </p>
+
+
 
 
