@@ -37,3 +37,6 @@ Prediction on a new image can be done using `get_prediction.py`
 
 ### Outputs
 
+- <p align="center"> <img src="238.jpg"/> </p>
+
+
